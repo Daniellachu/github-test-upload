@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-test-upload/static/css/main.fc5c2c69.css",
+    "main.js": "/github-test-upload/static/js/main.d2e8b02d.js",
+    "index.html": "/github-test-upload/index.html",
+    "main.fc5c2c69.css.map": "/github-test-upload/static/css/main.fc5c2c69.css.map",
+    "main.d2e8b02d.js.map": "/github-test-upload/static/js/main.d2e8b02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.d2e8b02d.js"
+  ]
+}
